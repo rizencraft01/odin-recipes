@@ -1,0 +1,27 @@
+body {
+    background-color: darkgray;
+    font-family: Georgia, "WTimes New Roman", serif;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 400px;
+}
+
+h2, 
+h3,
+p,
+h4,
+ul {
+    border: 1px solid black;
+    margin: 20px;
+}

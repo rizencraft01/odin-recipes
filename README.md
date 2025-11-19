@@ -1,0 +1,1 @@
+The purpose of this project is to create a website that lists different food recipes. The skills demonstrated in this project are HTML basics: elements, attributes, tags, using images and links, and a basic understanding of Git and making good Git committs.
